@@ -1,5 +1,9 @@
 ### 프론트엔드 개발자 송병찬 입니다.
 
+팀 프로젝트만큼이나 혼자서 개발해온 시간이 많지만 혼자서는 멋진 결과물을 만들기 어렵다는 협력과 소통의 중요성을 이해하고 겸손한 마음으로 개발하고 있습니다.
+
+<br />
+<br />
 
 ### Skill
 
@@ -42,8 +46,7 @@
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-  zeplin
+  <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 </p>
 
 <!--
